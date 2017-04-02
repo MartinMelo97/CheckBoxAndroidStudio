@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Estadio Hidalgo</string>
+    <string name="txtLocalidades">Localidades disponibles</string>
+    <string name="gral">General - $100</string>
+    <string name="platino">Platino - $300</string>
+    <string name="vip">VIP - $250</string>
+    <string name="palco">Palco - $500</string>
+    <string name="boton">Comprar boletos</string>
+    <string name="num_boletos">No. de Boletos</string>
+    <string name="thlocalidad">Localidad</string>
+    <string name="thprecio">Precio</string>
+    <string name="thboletos">Boletos</string>
+    <string name="thsubtotal">Subtotal</string>
+    <string name="tdlocGral">General</string>
+    <string name="tdlocPlatino">Platino</string>
+    <string name="tdlocVIP">VIP</string>
+    <string name="tdlocPalco">Palco</string>
+    <string name="tdprecioGral">$100</string>
+    <string name="tdprecioVIP">$250</string>
+    <string name="tdprecioPlatino">$300</string>
+    <string name="tdprecioPalco">$500</string>
+
+</resources>
